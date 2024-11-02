@@ -14,56 +14,56 @@ global.authFile = `ShadowsBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', false],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], 
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], 
-  ['5215541081250', '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'],  
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'], 
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'], 
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250'],
-  ['5215541081250']
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', false],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true], 
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973', 'GAME BOT🎮', true], 
+  ['5218184696973', 'GAME BOT🎮', true],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'], 
+  ['5218184696973'],  
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'], 
+  ['5218184696973'], 
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'], 
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973'],
+  ['5218184696973']
 ];
 
-global.suittag = ['5215541081250'];
-global.prems = ['5215541081250'];
+global.suittag = ['5218184696973'];
+global.prems = ['5218184696973'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.author = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.wm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.titulowm2 = `𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`
-global.igfg = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.packname = 'GAME BOT🎮';
+global.author = 'GAME BOT🎮';
+global.wm = 'GAME BOT🎮';
+global.titulowm = 'GAME BOT🎮';
+global.titulowm2 = `GAME BOT🎮`
+global.igfg = 'GAME BOT🎮';
 global.wait = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -83,16 +83,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕`;
-global.gt = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
-global.mysticbot = '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕';
+global.wm2 = `${dia} ${fecha}\nGAME BOT🎮`;
+global.gt = 'GAME BOT🎮';
+global.mysticbot = 'GAME BOT🎮';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 global.waittt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
 global.waitttt = '*_[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ.._*';
-global.nomorown = '5215541081250';
+global.nomorown = '5218184696973';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

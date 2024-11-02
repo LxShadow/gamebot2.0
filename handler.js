@@ -1089,7 +1089,7 @@ export async function participantsUpdate({ id, participants, action }) {
       if (chat.welcome && !chat?.isBanned) {
         const groupMetadata = await m?.conn?.groupMetadata(id) || (conn?.chats[id] || {}).metadata;
         for (const user of participants) {
-          let pp = 'https://raw.githubusercontent.com/LxShadow/ShadowsBots2.0/master/src/shadowava.png';
+          let pp = 'https://raw.githubusercontent.com/LxShadow/gamebot2.0/master/src/gameava.png';
           try {
             pp = await m.conn.profilePictureUrl(user, 'image');
           } catch (e) {

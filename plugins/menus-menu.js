@@ -516,7 +516,7 @@ ${tradutor.texto1[9]} ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌')
   ├❧ _${usedPrefix}delcmd_
   ├❧ _${usedPrefix}saveimage_
   ├❧ _${usedPrefix}viewimage_
-  ╰───── 𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕 ─────╯`
+  ╰───── GAME BOT🎮 ─────╯`
 
     let pp
     // Nouvelles images de menu disponibles 
